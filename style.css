@@ -1,0 +1,42 @@
+.parent{
+    height: 900px;
+    width: 700px;
+    border: 3px solid blue;
+    margin-left: 30%;
+}
+
+
+.firstheading{
+    margin-left: 30px;
+}
+
+
+.first{
+    height: 190px;
+    width: 630px;
+    border: 1px solid black;
+    margin-left :30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+}
+.label1{
+    padding-left: 30px;
+  margin-top: 5px;
+}
+.inputclass{
+    margin-left: 38px;
+}
+.selectclass{
+    margin-left: 38px;
+
+}
+.selectchildrenclass{
+    margin-left: 26px;
+
+}
+.newtab{
+    margin-left: 30px;
+}
+.buttonclass{
+    margin-left: 38px;
+}
